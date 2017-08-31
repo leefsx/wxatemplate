@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<import src="../../plugins/title/title.wxml" />
+<import src="../../plugins/media/media.wxml" />
+<view id="scroll_container">
+  <view class="mod_wrapper" style="">
+       <template is="title" data="{{ ...layer12B53ADFB29791777F32F10384CA45C7 }}"/>
+  </view>
+  <view class="mod_wrapper" >
+      <template is="title" data="{{ ...layer12B53ADFB29791777F32F10384CA45C8 }}"/>
+  </view>
+  <view class="mod_wrapper" style="">
+    <template is="media" data="{{ ...layer12B53ADFB29791777F32F10384CA45C9 }}"/>
+  </view>
+</view>
